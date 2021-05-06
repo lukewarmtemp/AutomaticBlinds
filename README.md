@@ -22,6 +22,12 @@ General Concept:
 5. Triggering the relay bybasses the orignal button on the remote by creating a short circuit
 6. Motor begins to move and opens the blinds
 
+Demo Video:
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=1O_1gUFumQM">
+</iframe>
+
 General Eletronics:
 
 <img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=300>
