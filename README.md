@@ -28,11 +28,11 @@ Demo Video:
 
 Schematic:
 
-img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=300>
+img src="ProjectPhotos/AutoblindsSchematics.png" width=900>
 
 General Eletronics:
 
-<img src="ProjectPhotos/AutoblindsSchematics.png" width=900>
+<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=300>
 
 Remote Wiring:
 
