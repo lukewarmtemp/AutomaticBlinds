@@ -29,3 +29,11 @@ General Eletronics:
 Remote Wiring:
 
 <img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=300>
+
+Cardboard Gears:
+
+<img src="ProjectPhotos/PXL_20210506_214125807.jpg" width=300>
+
+RC motor setup:
+
+<img src="ProjectPhotos/PXL_20210506_214139321.jpg" width=300>
