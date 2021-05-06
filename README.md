@@ -32,7 +32,7 @@ Schematic:
 
 General Eletronics:
 
-<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=400>
+<img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=400>
 
 Remote Wiring:
 
