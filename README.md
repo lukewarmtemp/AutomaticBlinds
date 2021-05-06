@@ -32,16 +32,16 @@ Schematic:
 
 General Eletronics:
 
-<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=300>
+<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=400>
 
 Remote Wiring:
 
-<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=300>
+<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=400>
 
 Cardboard Gears:
 
-<img src="ProjectPhotos/PXL_20210506_214125807.jpg" width=300>
+<img src="ProjectPhotos/PXL_20210506_214125807.jpg" width=400>
 
 RC motor setup:
 
-<img src="ProjectPhotos/PXL_20210506_214139321.jpg" width=300>
+<img src="ProjectPhotos/PXL_20210506_214139321.jpg" width=400>
