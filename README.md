@@ -25,3 +25,7 @@ General Concept:
 General Eletronics:
 
 <img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=300>
+
+Remote Wiring:
+
+<img src="PXL_20210506_214110918.jpg" width=300>
