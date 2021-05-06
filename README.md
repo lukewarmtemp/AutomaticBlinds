@@ -21,3 +21,6 @@ General Concept:
 4. Relay is connected on either side of the button on the remote responsible for forwards movement
 5. Triggering the relay bybasses the orignal button on the remote by creating a short circuit
 6. Motor begins to move and opens the blinds
+
+General Eletronics:
+![](ProjectPhotos\PXL_20210506_214105819.jpg)
