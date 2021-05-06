@@ -26,9 +26,13 @@ Demo Video:
 
 [![](https://img.youtube.com/vi/qJi3m9uqzVc/0.jpg)](https://www.youtube.com/watch?v=qJi3m9uqzVc)
 
+Schematic:
+
+img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=300>
+
 General Eletronics:
 
-<img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=300>
+<img src="ProjectPhotos/AutoblindsSchematics.png" width=300>
 
 Remote Wiring:
 
