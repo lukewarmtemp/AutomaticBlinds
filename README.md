@@ -23,4 +23,5 @@ General Concept:
 6. Motor begins to move and opens the blinds
 
 General Eletronics:
+
 <img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=400>
