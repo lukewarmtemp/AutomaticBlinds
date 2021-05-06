@@ -24,9 +24,7 @@ General Concept:
 
 Demo Video:
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=1O_1gUFumQM">
-</iframe>
+![](https://img.youtube.com/vi/uC-wHV_HBic/0.jpg)](https://www.youtube.com/watch?v=uC-wHV_HBic)
 
 General Eletronics:
 
