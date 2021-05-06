@@ -24,4 +24,4 @@ General Concept:
 
 General Eletronics:
 
-<img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=500>
+<img src="ProjectPhotos/PXL_20210506_214105819.jpg" width=300>
