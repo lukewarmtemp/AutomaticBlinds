@@ -28,4 +28,4 @@ General Eletronics:
 
 Remote Wiring:
 
-<img src="PXL_20210506_214110918.jpg" width=300>
+<img src="ProjectPhotos/PXL_20210506_214110918.jpg" width=300>
