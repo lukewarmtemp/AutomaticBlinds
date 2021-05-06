@@ -1,5 +1,5 @@
 # AutomaticBlinds
-A personal project that utilizes and old RC toy car to automatically open blinds in the morning. This request was made by a friend who always needed to close the blinds at night to block out the streetlights, but would always wake up in darkness as opposed to natural light. While I will not be using it in my daily life, I was able to learn many new things using and Arduino Uno, 5V relay, and photocell.
+A personal project that utilizes and old RC toy car to automatically open blinds in the morning. This request was made by a friend who always needed to close the blinds at night to block out the streetlights, but would always wake up in darkness as opposed to natural light. While I will not be using it in my day-to-day life, I was able to learn many new things using and Arduino Uno, 5V relay, and photocell.
 
 Parts Used:
 - Arduino Uno
