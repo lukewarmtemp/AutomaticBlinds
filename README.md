@@ -28,6 +28,7 @@ Demo Video:
 
 Schematic:
 
+<img src="ProjectPhotos/AutoblindsSchematics.png" width=900>
 
 General Eletronics:
 
